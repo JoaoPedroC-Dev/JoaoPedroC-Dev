@@ -1,4 +1,12 @@
-## Hi there 👋
+## 🙋🏽‍♂️ Olá, me chamo João Pedro, tenho 20 anos, moro em Campo Grande, Mato Grosso do Sul e atualmente sou um estudante de programação web.
+
+📱 Web Developer Full-Stack em formação com noção básica de programação, conhecimento em HTML, CSS, JavaScript, MySQL, noção básica em Pacote Office.
+
+🎒 Minha principal missão na área de programação web é trazer soluções, criar ideias inovadoras e projetos com o intuito de impactar positivamente na sociedade.
+
+👨🏽‍💻 Com experiência em trabalho em equipe, sou uma pessoa dedicada com facilidade em aprender e em saber lidar positivamente em situações. Acredito que a tecnologia será algo que irá impactar ainda mais o mundo atual, tendo isso em mente, eu quero ser aquele que utilizará esse impacto a favor da sociedade, automatizando serviços e facilitando atividades.
+
+✍🏼 Atualmente estou em busca do meu primeiro emprego na área de programação.
 
 <!--
 **JoaoPedroC-Dev/JoaoPedroC-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
