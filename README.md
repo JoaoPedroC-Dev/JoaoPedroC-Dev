@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📱 Web Developer Full-Stack em formação com noção básica de programação, conhecimento em HTML, CSS, JavaScript, MySQL, noção básica em Pacote Office.<br><br>🎒 Minha principal missão na área de programação web é trazer soluções, criar ideias inovadoras e projetos com o intuito de impactar positivamente na sociedade.<br><br>👨🏽‍💻 Com experiência em trabalho em equipe, sou uma pessoa dedicada com facilidade em aprender e em saber lidar positivamente em situações. Acredito que a tecnologia será algo que irá impactar ainda mais o mundo atual, tendo isso em mente, eu quero ser aquele que utilizará esse impacto a favor da sociedade, automatizando serviços e facilitando atividades.<br><br>✍🏼 Atualmente estou em busca do meu primeiro emprego na área de programação.</p>
+<p align="left">📱 Web Developer Full-Stack com noção básica de programação, conhecimento em HTML, CSS, JavaScript, MySQL, noção básica em Pacote Office.<br><br>🎒 Minha principal missão na área de programação web é trazer soluções, criar ideias inovadoras e projetos com o intuito de impactar positivamente na sociedade.<br><br>👨🏽‍💻 Com experiência em trabalho em equipe, sou uma pessoa dedicada com facilidade em aprender e em saber lidar positivamente em situações. Acredito que a tecnologia será algo que irá impactar ainda mais o mundo atual, tendo isso em mente, eu quero ser aquele que utilizará esse impacto a favor da sociedade, automatizando serviços e facilitando atividades.<br><br>✍🏼 Atualmente estou em busca do meu primeiro emprego na área de programação.</p>
 
 ###
 
